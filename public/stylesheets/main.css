@@ -1,0 +1,12 @@
+table.button-grid {
+    width: auto !important;
+    table-layout: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+table.button-grid thead th, table.button-grid tfoot th {
+    width: auto !important;
+}
+table.button-grid tbody td, table.button-grid tfoot td {
+    width: auto !important;
+}
